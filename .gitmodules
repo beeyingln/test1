@@ -1,0 +1,3 @@
+[submodule "gnmic"]
+	path = gnmic
+	url = git@github.com:beeyingln/gnmic.git
